@@ -7,4 +7,7 @@
   1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
   2) In the terminal, run `npm install`
   3) Run `npm start` to view project in browser
+
+  # Inspired by this video 
+  (Use LOCOFY on figma)[https://youtu.be/ZymXD46f7R4?si=nMoasGjk9ZWP5uwU]
   
